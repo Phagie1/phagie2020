@@ -8,17 +8,17 @@
     <script src="{{asset ('js/bootstrap.js')}}"></script>
     <title>My Site</title>
 </head>
-<body style="background-color: rgb(247, 244, 240); font-family:Century Gothic;">
+<body style="background-color: rgb(247, 248, 130); font-family:Century Gothic;">
 <style>
 
 .topnav {
   overflow: hidden;
-  background-color: rgb(77, 75, 74);
+  background-color: rgb(57, 77, 64);
   
 }
 
 .topnav a {
-  color: #f2f2f2;
+  color: green;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;

@@ -4,7 +4,7 @@
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container" style="text-align:center;">
-    <h1 class="display-3">Welcome to Harvard U</h1>
+    <h1 class="display-3">My Mdc My Family</h1>
     <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
   </div>
 </div>

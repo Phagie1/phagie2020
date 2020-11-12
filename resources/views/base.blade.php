@@ -13,12 +13,12 @@
 
 .topnav {
   overflow: hidden;
-  background-color: rgb(57, 77, 64);
+  background-color: rgb(57, 65, 64);
   
 }
 
 .topnav a {
-  color: green;
+  color: rgb(44,50,46);
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
@@ -26,7 +26,7 @@
 }
 
 .topnav a:hover {
-  background-color:   rgb(138, 127, 114);
+  background-color:rgb(138, 127, 114);
   color: black;
 }
 
